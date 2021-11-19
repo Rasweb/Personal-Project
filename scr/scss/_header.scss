@@ -1,0 +1,48 @@
+header {
+  display: flex;
+  flex-direction: column;
+  border: 4px solid greenyellow;
+  background-image: url(../pitcure/hero-music.png);
+  background-size: cover;
+  background-position: center;
+  height: 86vh;
+  position: relative;
+
+  .hero-text .other {
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.3);
+    opacity: 0.5;
+  }
+
+  .other {
+    color: white;
+    opacity: 1;
+  }
+
+  .bi-music-note-beamed {
+    font-size: 4rem;
+    color: white;
+    position: absolute;
+    bottom: 20%;
+    left: 40%;
+  }
+
+  .hero-text button {
+    border: none;
+    padding: 10px 25px;
+    color: black;
+    background-color: #ddd;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .hero-text button:hover {
+    background-color: #555;
+    color: white;
+  }
+}
