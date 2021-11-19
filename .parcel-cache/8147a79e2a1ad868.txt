@@ -1,6 +1,6 @@
 15719
 126C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\jsdom\lib\jsdom\living\generated\CloseEvent.js121436361000000000 0
-75C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\scss132818014304590524 1
+75C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\scss132818016702925375 1
 91C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\url\LICENSE130646432370000000 0
 98C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\isexe\package.json132818005095565113 0
 102C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\cipher-base\.npmignore131438162440000000 0
@@ -15,7 +15,7 @@
 108C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\@types\parse-json\index.d.ts131550930030000000 0
 95C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\nan\doc\json.md132725664060000000 0
 79C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\package.json132818008129288006 0
-71C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\dist132818014395168253 1
+71C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\dist132818016702601876 1
 112C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\features\bigint\index.js121436361000000000 0
 100C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\har-schema\README.md131370181680000000 0
 126C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\electron-to-chromium\full-chromium-versions.js121436361000000000 0
@@ -52,7 +52,7 @@
 110C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\create-ecdh\node_modules\bn.js132818008008365868 1
 82C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\pn132818008005475239 1
 98C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\cssstyle\lib\utils132818007959214934 1
-78C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure132813759697060351 1
+78C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure132818016702844589 1
 116C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\highlight.js\lib\languages\zephir.js121436361000000000 0
 111C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\es\string\trim-right.js121436361000000000 0
 93C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\har-validator132818008002174808 1
@@ -66,7 +66,7 @@
 134C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\@babel\types\lib\converters\toBindingIdentifierName.js121012626000000000 0
 112C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\es\string\virtual\big.js121436361000000000 0
 79C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules132818008013856618 1
-81C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\index.html132818012102647559 0
+81C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\index.html132818018234809245 0
 96C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\nanoid\index.cjs121436361000000000 0
 94C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\yaml\schema.js121436361000000000 0
 102C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\object-is\CHANGELOG.md121436361000000000 0
@@ -99,7 +99,7 @@
 110C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\postcss-normalize-charset\dist132818007947279165 1
 92C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\bcrypt-pbkdf132818008002370401 1
 114C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\w3c-xmlserializer\lib\constants.js121436361000000000 0
-70C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr132818012503482337 1
+70C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr132818016702601876 1
 90C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\ansi-regex132818005070328690 1
 110C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\svgo\plugins\removeMetadata.js121436361000000000 0
 113C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\es-abstract\2016\TimeWithinDay.js121436361000000000 0
@@ -129,7 +129,7 @@
 94C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\uri-js\LICENSE121436361000000000 0
 110C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\features\math\hypot.js121436361000000000 0
 106C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\lodash\_baseSortedIndex.js121436361000000000 0
-85C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\scss\main.scss132818014388651252 0
+85C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\scss\main.scss132818016702925375 0
 95C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\lodash\union.js121436361000000000 0
 112C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\asn1.js\lib\asn1\decoders\der.js121436361000000000 0
 115C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\highlight.js\styles\brown-paper.css121436361000000000 0
@@ -158,8 +158,8 @@
 99C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\tweetnacl\README.md131261008380000000 0
 120C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\stable\string\virtual\pad-end.js121436361000000000 0
 99C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\dotenv\package.json132818008007857469 0
-89C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\scss\_content.scss132818014304600000 0
-88C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\scss\_header.scss132818013775987184 0
+89C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\scss\_content.scss132818016702844589 0
+88C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\scss\_header.scss132818016702844589 0
 111C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\es-abstract\2018\ArrayCreate.js121436361000000000 0
 127C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\es-abstract\2020\GetPrototypeFromConstructor.js121436361000000000 0
 106C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\@parcel\runtime-js\LICENSE121436361000000000 0
@@ -182,15 +182,15 @@
 136C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\uncss\node_modules\postcss-selector-parser\dist\index.js121436361000000000 0
 147C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\bl\node_modules\readable-stream\lib\internal\streams\buffer_list.js121436361000000000 0
 90C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\indexes-of132818008007124723 1
-88C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\scss\_footer.scss132818013110962036 0
+88C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\scss\_footer.scss132818016702844589 0
 109C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\css-select\lib\types.d.ts.map121436361000000000 0
-90C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\classic.png132813759696729705 0
+90C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\classic.png132818016702681840 0
 128C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\is-negative-zero\.github\workflows\node-zero.yml121436361000000000 0
 114C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\postcss-discard-empty\CHANGELOG.md121436361000000000 0
 99C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\terser\lib\scope.js121436361000000000 0
 119C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\caniuse-lite\data\features\xhtmlsmil.js121436361000000000 0
 98C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\timsort\.npmignore131138581980000000 0
-90C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\country.jpg132813759696810329 0
+90C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\country.jpg132818016702681840 0
 99C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\lodash\fp\assign.js121436361000000000 0
 137C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\react-refresh\cjs\react-refresh-runtime.production.min.js121436361000000000 0
 95C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\.bin\cssesc.cmd132818008009784657 0
@@ -204,7 +204,7 @@
 132C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\jsdom\lib\jsdom\living\navigator\PluginArray-impl.js121436361000000000 0
 114C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\modules\es.date.to-json.js121436361000000000 0
 99C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\string-hash\test.js131313264060000000 0
-93C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\hero-music.png132813759696810329 0
+93C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\hero-music.png132818016702681840 0
 97C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\asynckit\index.js131082686050000000 0
 98C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\commander\index.js121436361000000000 0
 142C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\postcss-modules-local-by-default\node_modules\has-flag\license131408182550000000 0
@@ -216,7 +216,7 @@
 103C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\command-exists\index.js121436361000000000 0
 104C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\svgo\lib\svgo\jsAPI.d.ts121436361000000000 0
 113C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\features\string\repeat.js121436361000000000 0
-93C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\electronic.jpg132813759696810329 0
+93C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\electronic.jpg132818016702681840 0
 139C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\postcss-modules-scope\node_modules\postcss\lib\processor.js121436361000000000 0
 100C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\lodash\_lazyValue.js121436361000000000 0
 120C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\json-schema\draft-zyp-json-schema-04.xml131173448000000000 0
@@ -239,7 +239,7 @@
 108C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\webidl-conversions\README.md131320990780000000 0
 108C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\stable\array\sort.js121436361000000000 0
 92C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\pn\events.js131594838820000000 0
-86C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\pop.png132813759696976060 0
+86C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\pop.png132818016702761807 0
 106C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\whatwg-url\lib\URL-impl.js121436361000000000 0
 95C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\deep-is\LICENSE121436361000000000 0
 99C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\rimraf\CHANGELOG.md121436361000000000 0
@@ -253,14 +253,14 @@
 96C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\parcel\README.md121436361000000000 0
 114C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\which-boxed-primitive\package.json132818008001374486 0
 111C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\stable\promise\index.js121436361000000000 0
-88C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\metal.jpg132813759696976060 0
+88C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\metal.jpg132818016702681840 0
 109C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\stream-browserify\.travis.yml121436361000000000 0
 96C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\qs\test\parse.js131697106410000000 0
 105C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\har-schema\lib\entry.json131370181680000000 0
 101C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\is-arguments\index.js121436361000000000 0
 91C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\detect-libc132818005103861838 1
 86C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\base-x132818008008622331 1
-87C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\rock.png132813759697060351 0
+87C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\scr\pitcure\rock.png132818016702844589 0
 97C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\lodash\compact.js121436361000000000 0
 111C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\es-abstract\2020\DayFromYear.js121436361000000000 0
 115C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\internals\function-apply.js121436361000000000 0
@@ -12622,7 +12622,7 @@
 111C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\stable\function\bind.js121436361000000000 0
 108C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\modules\es.escape.js121436361000000000 0
 111C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\stable\function\name.js121436361000000000 0
-82C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\dist\index.html132818014395168253 0
+82C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\dist\index.html132818016702601876 0
 111C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\stable\function\virtual132818007975501321 1
 120C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\stable\function\virtual\index.js121436361000000000 0
 122C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\core-js\stable\dom-collections\for-each.js121436361000000000 0
@@ -15209,7 +15209,7 @@
 120C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\@parcel\fs-write-stream-atomic\README.md121436361000000000 0
 124C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\@parcel\fs-write-stream-atomic\test\basic.js121436361000000000 0
 131C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\@parcel\fs-write-stream-atomic\test\rename-eperm.js121436361000000000 0
-94C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\dist\index.33cf6cbf.css.map132818014395168253 0
+94C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\dist\index.33cf6cbf.css.map132818016702601876 0
 125C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\@parcel\fs-search\fs-search.darwin-arm64.node121436361000000000 0
 123C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\@parcel\fs-search\fs-search.darwin-x64.node121436361000000000 0
 128C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\@parcel\fs-search\fs-search.linux-arm64-gnu.node121436361000000000 0
@@ -15716,5 +15716,5 @@
 93C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\.bin\uuid.cmd132818008011058269 0
 93C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\.bin\uuid.ps1132818008011058269 0
 90C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\node_modules\.bin\which132818005114357890 0
-95C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\dist\hero-music.e03c1098.png132818014395168253 0
-90C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\dist\index.33cf6cbf.css132818014395168253 0
+95C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\dist\hero-music.e03c1098.png132818016702601876 0
+90C:\Users\rasmu\OneDrive\Dokument\Personal-Project\Personal-Project\dist\index.33cf6cbf.css132818016702601876 0

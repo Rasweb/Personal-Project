@@ -1,0 +1,120 @@
+main {
+  display: flex;
+  flex-direction: column;
+  border: 4px solid pink;
+  text-align: center;
+  .main-flex {
+    height: 40vh;
+    border: 1px solid green;
+  }
+}
+
+.img-pop,
+.img-rock,
+.img-metal,
+.img-country,
+.img-electronic,
+.img-classic {
+  width: 60%;
+  height: 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img-pop {
+  background-image: url(../pitcure/pop.png);
+  margin-left: 4rem;
+}
+
+.img-rock {
+  background-image: url(../pitcure/rock.png);
+  margin-left: 4rem;
+  background-color: cornflowerblue;
+}
+.img-metal {
+  background-image: url(../pitcure/metal.jpg);
+  margin-left: 4rem;
+}
+.img-country {
+  background-image: url(../pitcure/country.jpg);
+  margin-left: 4.5rem;
+}
+.img-electronic {
+  background-image: url(../pitcure/electronic.jpg);
+  margin-left: 6rem;
+}
+.img-classic {
+  background-image: url(../pitcure/classic.png);
+  margin-left: 6rem;
+}
+
+.classic-p {
+  font-size: 0.8rem;
+  color: black;
+}
+
+button {
+  cursor: pointer;
+}
+// The Modal
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 35%; //Location of the box
+  left: 0;
+  top: 0;
+  height: 100%; // Full height
+  overflow: auto; //Enable scroll if needed
+  background-color: rgb(0, 0, 0); //Fallback color
+  background-color: rgba(0, 0, 0, 0.4); // Black w/ opacity
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: white;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s;
+}
+
+/* The Close Button */
+.close {
+  color: red;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+  padding: 2px 16px;
+  background-color: #5cb85c;
+  color: green;
+  h4 {
+    color: black;
+  }
+}
+
+.modal-body {
+  padding: 2px 16px;
+}
+
+.modal-footer {
+  padding: 2px 16px;
+  background-color: #5cb85c;
+  color: white;
+}

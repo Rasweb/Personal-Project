@@ -53,4 +53,134 @@ header .hero-text button:hover {
   background-color: #555;
   color: white;
 }
+
+main {
+  display: flex;
+  flex-direction: column;
+  border: 4px solid pink;
+  text-align: center;
+}
+
+main .main-flex {
+  height: 40vh;
+  border: 1px solid green;
+}
+
+.img-pop,
+.img-rock,
+.img-metal,
+.img-country,
+.img-electronic,
+.img-classic {
+  width: 60%;
+  height: 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.img-pop {
+  background-image: url(pop.323a742d.png);
+  margin-left: 4rem;
+}
+
+.img-rock {
+  background-image: url(rock.c099bb38.png);
+  margin-left: 4rem;
+  background-color: cornflowerblue;
+}
+
+.img-metal {
+  background-image: url(metal.126aee79.jpg);
+  margin-left: 4rem;
+}
+
+.img-country {
+  background-image: url(country.3af9c9a9.jpg);
+  margin-left: 4.5rem;
+}
+
+.img-electronic {
+  background-image: url(electronic.7aaca018.jpg);
+  margin-left: 6rem;
+}
+
+.img-classic {
+  background-image: url(classic.0f271f97.png);
+  margin-left: 6rem;
+}
+
+.classic-p {
+  font-size: 0.8rem;
+  color: black;
+}
+
+button {
+  cursor: pointer;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 35%;
+  left: 0;
+  top: 0;
+  height: 100%;
+  overflow: auto;
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* Modal Content */
+
+.modal-content {
+  position: relative;
+  background-color: white;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s;
+}
+
+/* The Close Button */
+
+.close {
+  color: red;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+  padding: 2px 16px;
+  background-color: #5cb85c;
+  color: green;
+}
+
+.modal-header h4 {
+  color: black;
+}
+
+.modal-body {
+  padding: 2px 16px;
+}
+
+.modal-footer {
+  padding: 2px 16px;
+  background-color: #5cb85c;
+  color: white;
+}
 /*# sourceMappingURL=index.33cf6cbf.css.map */
