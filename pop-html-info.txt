@@ -1,0 +1,60 @@
+pop.html:
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Test</title>
+    <link rel="stylesheet" href="../css/pop.css" />
+    <script src="../js/pop.js"></script>
+  </head>
+  <body>
+    <!-- Link out of pop folder, out of under-sites folder and into index.html -->
+  </body>
+</html>
+
+pop.js:
+window.onload = function () {
+  header();
+  main();
+  footer();
+};
+
+function header() {
+  // Creates a header from the JavaScript.
+  let header = document.createElement("header"); // Creates the <header></header>
+  header.id = "header"; // Creates the id. <header id="header"></header>
+  document.body.appendChild(header); // Adds it to the bottom of the body.
+
+  // Creates a h1 element in the header.
+  let h1 = document.createElement("h1"); // Creates the <h1></h1>
+  h1.innerHTML = "Welcom to the genre Pop"; // Creates text. <h1>Thsi is a header</h1>
+  document.getElementById("header").appendChild(h1); // Adds it to the bottom of the header element.
+
+  // Creates the p tag.
+  let p = document.createElement("p");
+  p.innerHTML = "This site will be 100% JavaScript.";
+  document.getElementById("header").appendChild(p);
+}
+
+function main() {
+  // Creates a main from the JavaScript
+  let main = document.createElement("main");
+  main.id = "main";
+  main.innerHTML = "Test";
+  document.body.appendChild(main);
+}
+
+function footer() {
+  // Creates a footer from the JavaScript
+  let footer = document.createElement("footer");
+  footer.id = "footer";
+  footer.innerHTML = "Test";
+  document.body.appendChild(footer);
+
+  let indexLink = document.createElement("a");
+  indexLink.textContent = "Back to index.html";
+  indexLink.href = "./index.html";
+  document.getElementById("footer").appendChild(indexLink);
+}
