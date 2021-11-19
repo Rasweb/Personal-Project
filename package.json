@@ -1,0 +1,19 @@
+{
+  "name": "personal-project",
+  "version": "1.0.0",
+  "description": "This is my Personal-Project where I test different stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rasweb/Personal-Project.git"
+  },
+  "author": "Rasmus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rasweb/Personal-Project/issues"
+  },
+  "homepage": "https://github.com/Rasweb/Personal-Project#readme"
+}
