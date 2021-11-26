@@ -7,13 +7,17 @@ let btn = document.querySelectorAll("button.modal-button");
 let modals = document.querySelectorAll(".modal");
 
 // Get the element that closes the modal
-let span = document.getElementsByClassName("close");
+let span: HTMLSpanElement = document.getElementById("close") as HTMLSpanElement;
+
+// let span: HTMLSpanElement = document.getElementsByClassName(
+//   "close"
+// ) as HTMLSpanElement;
 
 // When the user clicks the button, open the modal
 for (let i = 0; i < btn.length; i++) {
   btn[i].onclick = function (e) {
     e.preventDefault(); // Prvents the click function to toggel a clickbox
-    modal = document.querySelector(e.target.getAttribute("href")); //getAttribute returns the value of "href"
+    let modal = document.querySelector(e.target.getAttribute("href")); //getAttribute returns the value of "href"
     modal.style.display = "block"; // Display block on modal
   };
 }
