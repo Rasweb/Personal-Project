@@ -5,7 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script src="/index.7191e3e1.js"></script>
+    <script src="/index.2aa4842d.js" defer="" async=""></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="/index.33cf6cbf.css">
   </head>
   <body>
@@ -16,7 +17,6 @@
           <p>Different music genres</p>
         </div>
       </div>
-
       <div>
         <a href="#main" class="button"><i class="bi bi-music-note-beamed"></i></a>
       </div>
@@ -25,17 +25,12 @@
       <div class="main-flex">
         <div><h3>Pop</h3></div>
         <div class="img-pop"></div>
-        <div>
-          <!-- Opens The Modal -->
-          <!-- <button id="myBtn">About Pop</button> -->
-          <button class="modal-button" href="#myModal1">About Pop</button>
-
-          <div id="myModal1" class="modal">
-            <div class="modal-content">
+        <div id="modalOne" class="modal">
+          <div class="modal-content">
+            <div class="contact-form">
               <div class="modal-header">
+                <a class="close">&times;</a>
                 <h4>Pop</h4>
-                <!-- Build this under site using JavaScript -->
-                <span class="close">x</span>
               </div>
               <p class="classic-p">
                 Pop is a genre of popular music that originated in its modern
@@ -62,20 +57,20 @@
             </div>
           </div>
         </div>
+        <p>
+          <button class="button" data-modal="modalOne">About Pop</button>
+        </p>
       </div>
       <div class="main-flex">
         <div><h3>Rock</h3></div>
         <!-- Build this under site using Grid -->
         <div class="img-rock"></div>
-        <div>
-          <!-- Opens The Modal -->
-          <button class="modal-button" href="#myModal2">About Rock</button>
-          <div id="myModal2" class="modal">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h4>Rock</h4>
-                <span id="close">x</span>
-              </div>
+        <div id="modalTwo" class="modal">
+          <div class="modal-content">
+            <div class="contact-form">
+              <a class="close">&times;</a>
+              <h4>Rock</h4>
+              <br>
               <p class="classic-p">
                 Rock music is one of the most enjoyed genre in the music world.
                 The genre had originated in early 1950s and continued its pace
@@ -95,20 +90,19 @@
             </div>
           </div>
         </div>
+        <p>
+          <button class="button" data-modal="modalTwo">About Rock</button>
+        </p>
       </div>
       <div class="main-flex">
         <div><h3>Metal</h3></div>
         <div class="img-metal"></div>
-        <div>
-          <!-- Opens The Modal -->
-          <button class="modal-button" href="#myModal3">About Metal</button>
-          <div id="myModal3" class="modal">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h4>Metal</h4>
-                <!-- Build this under site using Bootstrap -->
-                <span class="close">x</span>
-              </div>
+        <div id="modalThree" class="modal">
+          <div class="modal-content">
+            <div class="contact-form">
+              <a class="close">&times;</a>
+              <h4>Metal</h4>
+              <br>
               <p class="classic-p">
                 Heavy metal (or simply metal) is a genre of rock music that
                 developed in the late 1960s and early 1970s, largely in the
@@ -145,19 +139,19 @@
             </div>
           </div>
         </div>
+        <p>
+          <button class="button" data-modal="modalThree">About Metal</button>
+        </p>
       </div>
       <div class="main-flex">
         <div><h3>Country</h3></div>
         <div class="img-country"></div>
-        <div>
-          <!-- Opens The Modal -->
-          <button class="modal-button" href="#myModal4">About Country</button>
-          <div id="myModal4" class="modal">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h4>Country</h4>
-                <span class="close">x</span>
-              </div>
+        <div id="modalFour" class="modal">
+          <div class="modal-content">
+            <div class="contact-form">
+              <a class="close">&times;</a>
+              <h4>Country</h4>
+              <br>
               <p class="classic-p">
                 Country is a genre of popular music that originated with blues,
                 church music such as Southern gospel and spirituals, old-time,
@@ -182,21 +176,19 @@
             </div>
           </div>
         </div>
+        <p>
+          <button class="button" data-modal="modalFour">About Country</button>
+        </p>
       </div>
       <div class="main-flex">
         <div><h3>Electronic</h3></div>
         <div class="img-electronic"></div>
-        <div>
-          <!-- Opens The Modal -->
-          <button class="modal-button" href="#myModal5">
-            About Electronic
-          </button>
-          <div id="myModal5" class="modal">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h4>Electronic</h4>
-                <span class="close">x</span>
-              </div>
+        <div id="modalFive" class="modal">
+          <div class="modal-content">
+            <div class="contact-form">
+              <a class="close">&times;</a>
+              <h4>Electronic</h4>
+              <br>
               <p class="classic-p">
                 Electro house is a genre of electronic dance music characterized
                 by heavy bass and a tempo around 130 beats per minute. Its
@@ -214,19 +206,21 @@
             </div>
           </div>
         </div>
+        <p>
+          <button class="button" data-modal="modalFive">
+            About Electronic
+          </button>
+        </p>
       </div>
       <div class="main-flex">
         <div><h3>Classic</h3></div>
         <div class="img-classic"></div>
-        <div>
-          <!-- Opens The Modal -->
-          <button class="modal-button" href="#myModal6">About Classic</button>
-          <div id="myModal6" class="modal">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h4>Classic</h4>
-                <span class="close">x</span>
-              </div>
+        <div id="modalSix" class="modal">
+          <div class="modal-content">
+            <div class="contact-form">
+              <a class="close">&times;</a>
+              <h4>Classic</h4>
+              <br>
               <p class="classic-p">
                 Classical music is a term that most commonly refers to the
                 formal musical tradition of the Western world, considered to be
@@ -253,6 +247,9 @@
             </div>
           </div>
         </div>
+        <p>
+          <button class="button" data-modal="modalSix">Contact Us</button>
+        </p>
       </div>
     </main>
   </body>
