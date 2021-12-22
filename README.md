@@ -2,6 +2,14 @@
 This is my Personal-Project.
 Where I test different stuff and create them. 
 
+How to build the different sites:
+Pop - Using TypeScript.
+Rock - Bootstrap.
+Metal - Flex and Grid.
+Country
+Electronic
+Classic
+
 I the begining of the projekt:
 
 Creating a project
