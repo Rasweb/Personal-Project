@@ -10,8 +10,8 @@ Country
 Electronic
 Classic
 
-I the begining of the projekt:
 
+I the begining of the projekt:
 Creating a project
 npm init
 

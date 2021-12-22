@@ -52,77 +52,6 @@ main {
   color: black;
 }
 
-button {
-  cursor: pointer;
-  width: 100px;
-  height: 100px;
-}
-// // The Modal
-// .modal {
-//   display: none;
-//   position: fixed;
-//   z-index: 1;
-//   padding-top: 35%; //Location of the box
-//   left: 0;
-//   top: 0;
-//   height: 100%; // Full height
-//   overflow: auto; //Enable scroll if needed
-//   background-color: rgb(0, 0, 0); //Fallback color
-//   background-color: rgba(0, 0, 0, 0.4); // Black w/ opacity
-// }
-
-// /* Modal Content */
-// .modal-content {
-//   position: relative;
-//   background-color: white;
-//   margin: auto;
-//   padding: 0;
-//   border: 1px solid #888;
-//   width: 80%;
-//   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-//   -webkit-animation-name: animatetop;
-//   -webkit-animation-duration: 0.4s;
-//   animation-name: animatetop;
-//   animation-duration: 0.4s;
-// }
-
-// /* The Close Button */
-// .close {
-//   color: red;
-//   float: right;
-//   font-size: 28px;
-//   font-weight: bold;
-//   cursor: pointer;
-// }
-
-// .close:hover,
-// .close:focus {
-//   color: #000;
-//   text-decoration: none;
-//   cursor: pointer;
-// }
-
-// .modal-header {
-//   padding: 2px 16px;
-//   background-color: #5cb85c;
-//   color: green;
-//   h4 {
-//     color: black;
-//   }
-// }
-
-// .modal-body {
-//   padding: 2px 16px;
-// }
-
-// .modal-footer {
-//   padding: 2px 16px;
-//   background-color: #5cb85c;
-//   color: white;
-// }
-
-/* Popup Box */
-
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
@@ -171,10 +100,12 @@ button {
 }
 
 button.button {
-  background: none;
-  border: none;
-  padding: 0 0 4px 0;
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
   font-size: 16px;
+  width: 140px;
+  height: 40px;
 }
 
 button.button:hover {
